@@ -1,3 +1,4 @@
+dash
 pandas
 jupyter-dash
-dash
+jupyter_server_proxy
